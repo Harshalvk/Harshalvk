@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Harshal 
+Building things at the intersection of ai, backend systems, and developer tooling.
+currently deep into go, distributed systems.
 
-<!--
-**Harshalvk/Harshalvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently building
 
-Here are some ideas to get you started:
+- **[meetlume](https://github.com/harshalvk/meetlume)** — An AI meetings assistant turns meetings into structured notes, action items, and summaries. no manual work.
+- **[jobqueue](https://github.com/harshalvk/jobqueue)** — Distributed job queue in go built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm into
+
+- go backends and distributed systems internals
+- ai & agents 
+- react/next.js
+- web3 / solana when i get curious
+
+visite my portfolio - [harshalvk.com](https://harshalvk.com)
+
+*shipping while learning. most things are wip.*
