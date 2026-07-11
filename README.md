@@ -18,5 +18,3 @@ currently deep into go, distributed systems.
 - web3 / solana when i get curious
 
 visite my portfolio - [harshalvk.com](https://harshalvk.com)
-
-*shipping while learning. most things are wip.*
